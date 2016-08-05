@@ -9,8 +9,6 @@ import java.lang.annotation.Target;
 /**   
  *  
  * @Description: 用于映射方法对应的SQL注解
- * @author LiuYu   
- * @date 2014-6-16 下午9:05:12 
  *    
  */
 @Inherited
